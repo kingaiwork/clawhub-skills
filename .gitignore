@@ -1,0 +1,4 @@
+_scanned/
+*.local
+*.secret
+secrets/
